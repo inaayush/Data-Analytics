@@ -8,3 +8,4 @@
 6-create two arrays of column values one will be X and the other will be y.
 7-y is the output value and X-is the explanatory value.
 8-the table will be stored in a variable data.
+9-here yp-means y_hat and y_mean means y_bar.
